@@ -27,6 +27,6 @@ case "$1" in
         status
     ;;
         *)
-        echo -e "\nUsage: monitor.sh standby|on|status"
+        echo -e "\nUsage: monitor.sh on|off|status"
     ;;
     esac
