@@ -1,4 +1,4 @@
-#HDMI-CEC on a Raspberry Pi
+# HDMI-CEC on a Raspberry Pi
 
 To turn off the monitors connected to Raspberry pi 4B
 
